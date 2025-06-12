@@ -21,10 +21,17 @@ O objetivo do FinLife é oferecer uma plataforma simples e intuitiva para gerenc
 
 ## 📁 Estrutura do projeto
 
-finlife/
 
 ├── index.html       # Página de cadastro de usuário
 
 ├── styles.css       # Estilos personalizados
 
 └── README.md        # Informações sobre o projeto
+
+## 🧑‍💻 Autor 
+ 
+ - Gabriel Dantas Dos Santos
+ 
+ - RM 562728
+
+ - Turma 1TDSOE
